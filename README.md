@@ -1,5 +1,4 @@
-<a align="center"><img width="50%" height="auto" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" height="175px"/></a>
-
+<img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" alt="Paris" class="center">
 
 <h1 align="center">Hi <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/waving_hand.gif" width="30px">, I'm Shivangi</h1>
 <h3 align="center">I'm a student from NIT Allahabad :slightly_smiling_face: .</h3>
