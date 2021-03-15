@@ -29,9 +29,9 @@
     <img align="center" width="26px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/gmail.png" />.</a>
     
     
-    
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/shivangi-bohara-b0b75a1b9" target="_blank"> <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/linkedin.jpeg"/> </a>
-    <a href="mailto:nikki.shiv2402@gmail.com" target="_blank"> <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/gmail.png"/> </a>
-alt="express" width="40" height="40"/> </a>
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shivangi-bohara-b0b75a1b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:nikki.shiv2402@gmail.com"><img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/gmail.png"/></a>
+
 </p>
