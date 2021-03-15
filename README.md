@@ -1,4 +1,3 @@
-<a href="#"><img width="50%" height="auto" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" height="175px"/></a>
 <img align="center" alt="GIF" width="450px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif"/>
 
 <h1 align="center">Hi <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/waving_hand.gif" width="30px">, I'm Shivangi</h1>
