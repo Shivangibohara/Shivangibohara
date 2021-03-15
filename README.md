@@ -1,3 +1,8 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" alt="Paris" class="center">
 
 <h1 align="center">Hi <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/waving_hand.gif" width="30px">, I'm Shivangi</h1>
