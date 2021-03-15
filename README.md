@@ -22,8 +22,8 @@
 ## 🚀 Contact me :point_down:
 
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/shivangi-bohara-b0b75a1b9">
-    <img align="center" width="26px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/linkedin.jpeg" /></a>
+    <img align="center" width="26px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/linkedin.jpeg" />.</a>
 
  
  &nbsp; &nbsp; <a href="mailto:nikki.shiv2402@gmail.com">
-    <img align="center" width="26px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/gmail.png" /></a>
+    <img align="center" width="26px" src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/gmail.png" />.</a>
