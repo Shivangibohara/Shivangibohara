@@ -1,25 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
 
-<h2>Center an Image</h2>
-<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
-
-<img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" alt="Paris" style="width:50%;">
-
-</body>
-</html>
-
+<p style="text-align:center;"><img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/Homebase_Thumb_v01.gif" alt="Logo"></p>
 <h1 align="center">Hi <img src="https://github.com/Shivangibohara/Shivangibohara/blob/main/github/waving_hand.gif" width="30px">, I'm Shivangi</h1>
 <h3 align="center">I'm a student from NIT Allahabad :slightly_smiling_face: .</h3>
 
